@@ -1,0 +1,1579 @@
+series,character_name_norm,n_episodes,n_rows
+PRO,Miners,2,4
+DS9,Admiral Leyton,2,2
+DS9,Amaros,2,2
+DS9,Chris Brynner,2,2
+DS9,Jennifer Sisko,2,2
+DS9,Kai Opaka,2,2
+DS9,Kasidy Yates Sisko,2,2
+DS9,Li Nalas,2,2
+DS9,Neela,2,2
+DS9,Primmin,2,2
+DS9,Regent Worf,2,2
+DS9,Shakaar,2,2
+DSC,Aditya Sahil,2,2
+DSC,Harry Mudd,2,2
+DSC,Landry,2,2
+DSC,Malinne 'Moll' Ravel,2,2
+DSC,May,2,2
+ENT,Adm. Valdore,2,2
+ENT,Alicia Travers,2,2
+ENT,Alien,2,2
+ENT,Alien Captain,2,2
+ENT,Ambassador Gral,2,2
+ENT,Antaak,2,2
+ENT,Cpl. Chang,2,2
+ENT,Cpl. Hawkins,2,2
+ENT,Crewman,2,2
+ENT,Crewman Michael Rostov,2,2
+ENT,Engineer Alex,2,2
+ENT,Erika Hernandez,2,2
+ENT,Gen. K'Vagh,2,2
+ENT,Harris,2,2
+ENT,Jeremy Lucas,2,2
+ENT,Klaang,2,2
+ENT,Kreetassan Captain,2,2
+ENT,MACO Sgt. Travis Mayweather,2,2
+ENT,Maj. Malcolm Reed,2,2
+ENT,Minister Kuvak,2,2
+ENT,Nathan Samuels,2,2
+ENT,Suliban Sarin,2,2
+ENT,Talas,2,2
+ENT,Tholos,2,2
+ENT,Vosk,2,2
+LD,AGIMUS,2,2
+LD,Admiral Vassery,2,2
+LD,Asif,2,2
+LD,Astrid,2,2
+LD,Barnes,2,2
+LD,Beckett Mariner (alternate),2,2
+LD,Casey,2,2
+LD,Dayton,2,2
+LD,K'Levin,2,2
+LD,Kassia Nox,2,2
+LD,Moxy,2,2
+LD,Nick Locarno,2,2
+LD,Petra Aberdeen,2,2
+LD,Risik,2,2
+LD,Romulan Female Officer,2,2
+LD,T'Ana (alternate),2,2
+LD,Vassery,2,2
+PIC,Altan Inigo Soong,2,2
+PIC,Dahj,2,2
+PIC,Dahj's Boyfriend,2,2
+PIC,First Magistrate,2,2
+PIC,Lore,2,2
+PIC,Maurice Picard,2,2
+PIC,Sutra,2,2
+PIC,Teresa Ramirez,2,2
+PIC,Yvette Picard,2,2
+PRO,Asencia,2,2
+PRO,Bridge Ensign,2,2
+PRO,Bridge Officer,2,2
+PRO,Crew Member,2,2
+PRO,Holo Zero,2,2
+PRO,Lorekeeper,2,2
+PRO,Lurian Miner,2,2
+SNW,Cadet Nyota Uhura,2,2
+SNW,Rukiya,2,2
+SNW,T'Pring,2,2
+STT,Number One,2,2
+STT,Spock,2,2
+STT,USS Enterprise Computer,2,2
+TAS,Romulan Commander,2,2
+TNG,Adm. J. P. Hanson,2,2
+TNG,Armstrong,2,2
+TNG,Baran,2,2
+TNG,Crewman Nelson,2,2
+TNG,DaiMon Bok,2,2
+TNG,Edward Jellico,2,2
+TNG,Elizabeth Shelby,2,2
+TNG,Enterprise Computer,2,2
+TNG,Enterprise Computer Voice,2,2
+TNG,Felton,2,2
+TNG,Gi'ral,2,2
+TNG,Gul Lemec,2,2
+TNG,Hugh,2,2
+TNG,Jaglom Shrek,2,2
+TNG,K'Ehleyr,2,2
+TNG,K'Vada,2,2
+TNG,Kellogg,2,2
+TNG,Korris,2,2
+TNG,Leah Brahms,2,2
+TNG,Lursa,2,2
+TNG,Perrin,2,2
+TNG,Samuel Clemens,2,2
+TNG,Spock,2,2
+TNG,Tallera,2,2
+TNG,Vash,2,2
+TNG,Vekor,2,2
+TOS,Commodore José Mendez,2,2
+TOS,Farrell,2,2
+TOS,Harry Mudd,2,2
+TOS,Kelowitz,2,2
+TOS,Policeman,2,2
+TOS,Romulan Commander,2,2
+TOS,Sylvia,2,2
+TOS,Transporter Chief,2,2
+VOY,Alpha Hirogen,2,2
+VOY,Axum,2,2
+VOY,Chaotica,2,2
+VOY,Danara Pel,2,2
+VOY,Equinox EMH,2,2
+VOY,Jaffen,2,2
+VOY,Jenkins,2,2
+VOY,Lewis Zimmerman,2,2
+VOY,Naomi Wildman,2,2
+VOY,Nazi Commandant,2,2
+VOY,Obrist,2,2
+VOY,Peter Durst,2,2
+VOY,Rain Robinson,2,2
+VOY,Reginald Barclay,2,2
+VOY,Rudy Ransom,2,2
+VOY,Seamus Driscol,2,2
+VOY,Voyager Computer,2,2
+LD,Computer,1,2
+PRO,Enderprizians,1,2
+TAS,Huron Lieutenant,1,2
+TNG,Eli Hollander,1,2
+TNG,Ira Graves,1,2
+TOS,Bridge Crewmember,1,2
+DS9,Adult Jake Sisko,1,1
+DS9,Ah-Kel,1,1
+DS9,Albert Macklin,1,1
+DS9,Alexander Rozhenko,1,1
+DS9,Altovar,1,1
+DS9,Ambassador E'Tyshra,1,1
+DS9,Anastasia Komananov,1,1
+DS9,Arissa,1,1
+DS9,Arjin,1,1
+DS9,Audrid Dax,1,1
+DS9,B.C.,1,1
+DS9,Biddle Coleridge,1,1
+DS9,Brunt,1,1
+DS9,Buck Bokai,1,1
+DS9,Cassandra,1,1
+DS9,Ch'Pok,1,1
+DS9,Chadwick,1,1
+DS9,Changeling,1,1
+DS9,Colonel Day,1,1
+DS9,Colyus,1,1
+DS9,Croden,1,1
+DS9,Curzon Dax,1,1
+DS9,Darlene Kursky,1,1
+DS9,DeCurtis,1,1
+DS9,Deral,1,1
+DS9,Director Luther Sloan,1,1
+DS9,Douglas Pabst,1,1
+DS9,Duchamps,1,1
+DS9,Dulmur,1,1
+DS9,Ekoria,1,1
+DS9,Elizabeth Lense,1,1
+DS9,Emi,1,1
+DS9,Entek,1,1
+DS9,Ezri Tigan,1,1
+DS9,Falcon,1,1
+DS9,Fallit Kot,1,1
+DS9,Falow,1,1
+DS9,Fenna,1,1
+DS9,Fullerton,1,1
+DS9,General Krim,1,1
+DS9,Gilora Rejal,1,1
+DS9,Glinn Boheeka,1,1
+DS9,Goran'Agar,1,1
+DS9,Gowron,1,1
+DS9,Grilka,1,1
+DS9,Guardian,1,1
+DS9,Hain,1,1
+DS9,Hanok,1,1
+DS9,Hector Ilario,1,1
+DS9,Herbert Rossoff,1,1
+DS9,Hon'Tihl,1,1
+DS9,Hovath,1,1
+DS9,Ilon Tandro,1,1
+DS9,Inglatu,1,1
+DS9,Ishka,1,1
+DS9,Jack,1,1
+DS9,Jaheel,1,1
+DS9,Jean-Luc Picard,1,1
+DS9,Jem'Hadar Teenager,1,1
+DS9,Jimmy,1,1
+DS9,Joran Belar,1,1
+DS9,Joran Dax,1,1
+DS9,Joseph,1,1
+DS9,Joseph Sisko,1,1
+DS9,Julius Eaton,1,1
+DS9,Kang,1,1
+DS9,Karina,1,1
+DS9,Kay Eaton,1,1
+DS9,Keogh,1,1
+DS9,Kilana,1,1
+DS9,Kira Meru,1,1
+DS9,Kirby,1,1
+DS9,Klingon Chef,1,1
+DS9,Koral,1,1
+DS9,Korinas,1,1
+DS9,Krajensky,1,1
+DS9,Krax,1,1
+DS9,Kubus,1,1
+DS9,Kurn,1,1
+DS9,LMH,1,1
+DS9,Laas,1,1
+DS9,Lasaran,1,1
+DS9,Legate Parn,1,1
+DS9,Lela Dax,1,1
+DS9,Lenara Kahn,1,1
+DS9,Leskit,1,1
+DS9,Lisa Cusak,1,1
+DS9,Locutus of Borg,1,1
+DS9,Lola Chrystal,1,1
+DS9,Lovok,1,1
+DS9,Lupaza,1,1
+DS9,Makbar,1,1
+DS9,Mardah,1,1
+DS9,Mareel,1,1
+DS9,Martok,1,1
+DS9,Melissa,1,1
+DS9,Melora Pazlar,1,1
+DS9,Mora,1,1
+DS9,Mullibok,1,1
+DS9,Natima Lang,1,1
+DS9,Nidell,1,1
+DS9,Nilva,1,1
+DS9,Noah,1,1
+DS9,Norvo,1,1
+DS9,Nurse Faith Garland,1,1
+DS9,Pel,1,1
+DS9,Preacher,1,1
+DS9,Prof. Honey Bare,1,1
+DS9,Q,1,1
+DS9,Regent,1,1
+DS9,Renhol,1,1
+DS9,Renora,1,1
+DS9,Retaya,1,1
+DS9,Richard Bashir,1,1
+DS9,Ro-Kel,1,1
+DS9,Roana,1,1
+DS9,Rurigan,1,1
+DS9,Ruwon,1,1
+DS9,Sakonna,1,1
+DS9,Seltin Rakal,1,1
+DS9,Seyetik,1,1
+DS9,Silaran,1,1
+DS9,Sirah,1,1
+DS9,Sisko,1,1
+DS9,Surmak Ren,1,1
+DS9,T'Rul,1,1
+DS9,Tahna Los,1,1
+DS9,Taxco,1,1
+DS9,Tekeny Ghemor,1,1
+DS9,Telok,1,1
+DS9,The Hunter,1,1
+DS9,Tobin Dax,1,1
+DS9,Toman'torax,1,1
+DS9,Torias Dax,1,1
+DS9,Tosk,1,1
+DS9,Tumak,1,1
+DS9,Ty Kajada,1,1
+DS9,Ulani Belor,1,1
+DS9,Vaatrik Pallra,1,1
+DS9,Valerian,1,1
+DS9,Varani,1,1
+DS9,Vargas,1,1
+DS9,Vash,1,1
+DS9,Vedek Ossan,1,1
+DS9,Verad,1,1
+DS9,Weld Ram,1,1
+DS9,Willie Hawkins,1,1
+DS9,Yedrin Dax,1,1
+DS9,Zayra,1,1
+DS9,Zlangco,1,1
+DSC,Andorian Regulator,1,1
+DSC,Aurellio,1,1
+DSC,Ba'ul,1,1
+DSC,Baron Grimes,1,1
+DSC,Book's Father,1,1
+DSC,Danby Connor,1,1
+DSC,Discovery Computer,1,1
+DSC,Felix,1,1
+DSC,Gabrielle Burnham,1,1
+DSC,Gen Rhys,1,1
+DSC,Guardian Xi,1,1
+DSC,Hadley,1,1
+DSC,Haz Mazaro,1,1
+DSC,Hy'Rell,1,1
+DSC,Ithyk the Andorian,1,1
+DSC,Jacob,1,1
+DSC,Joann Owosekun,1,1
+DSC,L'ak,1,1
+DSC,Lord Eling,1,1
+DSC,Mother,1,1
+DSC,Ndoye,1,1
+DSC,Number One,1,1
+DSC,Ohvahz,1,1
+DSC,Osyraa,1,1
+DSC,President of United Earth,1,1
+DSC,Psycho,1,1
+DSC,Sanctuary,1,1
+DSC,Senior Guard,1,1
+DSC,Specialist Ash Tyler,1,1
+DSC,Stella Grimes,1,1
+DSC,Su'Kal,1,1
+DSC,T'Kuvma,1,1
+DSC,Vina,1,1
+DSC,Wen,1,1
+DSC,Zareh,1,1
+ENT,A.G. Robinson,1,1
+ENT,Adm. Black,1,1
+ENT,Adm. Gardner (Mirror),1,1
+ENT,Advocate Kolos,1,1
+ENT,Agent Daniels,1,1
+ENT,Ah'Len,1,1
+ENT,Akaali #1,1,1
+ENT,Alien #1,1,1
+ENT,Alien #2,1,1
+ENT,Alien Astronaut,1,1
+ENT,Alien Barkeep,1,1
+ENT,Alien Foreman,1,1
+ENT,Alien Man,1,1
+ENT,Alien Trader D'Marr,1,1
+ENT,Amanda Cole,1,1
+ENT,Athan,1,1
+ENT,Bethany,1,1
+ENT,Billy,1,1
+ENT,Bu'kaH,1,1
+ENT,Burzaan,1,1
+ENT,Cadet,1,1
+ENT,Chancellor Trelit,1,1
+ENT,Com Officer,1,1
+ENT,Command Divsion Crewman,1,1
+ENT,Commodore Maxwell Forrest,1,1
+ENT,Cook,1,1
+ENT,Counselor Deanna Troi,1,1
+ENT,Cpl. McKenzie,1,1
+ENT,Crewman #2,1,1
+ENT,Crewman Ethan Novakovich,1,1
+ENT,Crewman Haynem,1,1
+ENT,Crewman Kelly,1,1
+ENT,Crewman Soval,1,1
+ENT,Cunningham,1,1
+ENT,Danica Erickson,1,1
+ENT,Daniel Greaves,1,1
+ENT,Danik,1,1
+ENT,Deputy Bennings,1,1
+ENT,Dockmaster,1,1
+ENT,Drake,1,1
+ENT,E'lis,1,1
+ENT,Emory Erickson,1,1
+ENT,Enolian Official,1,1
+ENT,Esaak,1,1
+ENT,Feezal,1,1
+ENT,Firek Goff,1,1
+ENT,Firek Plinn,1,1
+ENT,First Officer Matthew Ryan,1,1
+ENT,Fraddock,1,1
+ENT,Gaavrin,1,1
+ENT,Garos,1,1
+ENT,Gen. Gosis,1,1
+ENT,Gralik Durr,1,1
+ENT,Grish,1,1
+ENT,Grizzled Man,1,1
+ENT,Guard,1,1
+ENT,Harrad-Sar,1,1
+ENT,Hoshi's Father,1,1
+ENT,Hudak,1,1
+ENT,Illyrian Captain,1,1
+ENT,Indava,1,1
+ENT,Injured Crewmember,1,1
+ENT,Jack,1,1
+ENT,Jamin,1,1
+ENT,Jhamel,1,1
+ENT,Kago-Darr,1,1
+ENT,Kaitaama,1,1
+ENT,Kelby,1,1
+ENT,Kessick,1,1
+ENT,Keyla,1,1
+ENT,Khata'n Zshaar,1,1
+ENT,Klingon Capt. Vorok,1,1
+ENT,Klingon Captain,1,1
+ENT,Klingon Magistrate,1,1
+ENT,Klingon on Repair Station,1,1
+ENT,Koss,1,1
+ENT,Krem,1,1
+ENT,Kuroda Lor-ehn,1,1
+ENT,Laneth,1,1
+ENT,Liana,1,1
+ENT,Loomis,1,1
+ENT,MacReady,1,1
+ENT,Madeline Reed,1,1
+ENT,Maggie,1,1
+ENT,Major Klev,1,1
+ENT,Maklii,1,1
+ENT,Mary Reed,1,1
+ENT,Maximilian Forrest,1,1
+ENT,Maya,1,1
+ENT,Mazarite Captain,1,1
+ENT,Med Tech,1,1
+ENT,Menos,1,1
+ENT,Mestral,1,1
+ENT,Muk,1,1
+ENT,Nadet,1,1
+ENT,Nausicaan Prisoner,1,1
+ENT,Navaar,1,1
+ENT,Nora,1,1
+ENT,Oratt,1,1
+ENT,Orgoth,1,1
+ENT,Palmer,1,1
+ENT,Paul Mayweather,1,1
+ENT,Pell,1,1
+ENT,Porthos,1,1
+ENT,Pri'Nam D'Jamat,1,1
+ENT,Prosecutor Orak,1,1
+ENT,Quinn,1,1
+ENT,Raakin,1,1
+ENT,Rajiin,1,1
+ENT,Ravis,1,1
+ENT,Renth,1,1
+ENT,Riann,1,1
+ENT,Rianna Mayweather,1,1
+ENT,Ruby,1,1
+ENT,Sajen,1,1
+ENT,Seleya Crewmember,1,1
+ENT,Sgt. Kemper,1,1
+ENT,Shaw,1,1
+ENT,Shiraht,1,1
+ENT,Sim Trip at 17,1,1
+ENT,Sim Trip at 4,1,1
+ENT,Sim Trip at 8,1,1
+ENT,Skalaar,1,1
+ENT,Sopek,1,1
+ENT,Starfleet Officer,1,1
+ENT,Strom,1,1
+ENT,Stuart Reed,1,1
+ENT,Suliban Soldier,1,1
+ENT,T'Les,1,1
+ENT,T'Mir,1,1
+ENT,Tagrim,1,1
+ENT,Tanner,1,1
+ENT,Tarquin,1,1
+ENT,Tavin,1,1
+ENT,Tessic,1,1
+ENT,Thalen,1,1
+ENT,The Alien,1,1
+ENT,The Wraith,1,1
+ENT,Tolaris,1,1
+ENT,Translator Voice,1,1
+ENT,Trena'L,1,1
+ENT,Tret,1,1
+ENT,Trevix,1,1
+ENT,Vissian Capt. Drennik,1,1
+ENT,Vissian Chief Engineer,1,1
+ENT,Vissian Cogenitor,1,1
+ENT,Vulcan Ambassador V'Lar,1,1
+ENT,Vulcan Capt. Tavek,1,1
+ENT,Vulcan Capt. Vanik,1,1
+ENT,Vulcan Elder,1,1
+ENT,Williams,1,1
+ENT,Xindi-Primate,1,1
+ENT,Xindi-Reptilian,1,1
+ENT,Xindi-Reptilian Captain,1,1
+ENT,Yarrick,1,1
+ENT,Yedrin Koss,1,1
+ENT,Yolen,1,1
+ENT,Zho'Kaan,1,1
+ENT,Zobral,1,1
+LD,Admiral,1,1
+LD,Admiral Freeman,1,1
+LD,Agimus,1,1
+LD,Aledo Computer,1,1
+LD,Alhambra Medical Officer,1,1
+LD,Alien Cerritos Ensign,1,1
+LD,Alien Male Acolyte,1,1
+LD,Alonzo Freeman,1,1
+LD,Amadou,1,1
+LD,Ambassador Grubdin,1,1
+LD,Amina Ramsey,1,1
+LD,Anderson,1,1
+LD,Andy Billups,1,1
+LD,Armus,1,1
+LD,Aurelian Husband,1,1
+LD,Aurelian Wife,1,1
+LD,B'Rt Tendi,1,1
+LD,Badgey,1,1
+LD,Barbara Brinson,1,1
+LD,Beagle Vulcan Officer 1,1,1
+LD,Becky Freeman,1,1
+LD,Big Merp,1,1
+LD,Blongo,1,1
+LD,Borg Queen,1,1
+LD,Bouncer,1,1
+LD,Brad Boimler (alternate),1,1
+LD,Broker,1,1
+LD,Cardassian Guard Holograms,1,1
+LD,Carnivorous Moss,1,1
+LD,Cerritos Computer,1,1
+LD,Cerritos Computer (alternate),1,1
+LD,Clar,1,1
+LD,Clem,1,1
+LD,Clicket Infiltrator 1,1,1
+LD,Col. Kira Nerys,1,1
+LD,Command Ensign with Accelerated Growth and Reverse Aging,1,1
+LD,Coqqor,1,1
+LD,Crew Member,1,1
+LD,Cube 1,1,1
+LD,Cube 2,1,1
+LD,Curzon Dax (alternate),1,1
+LD,Data,1,1
+LD,Deanna Troi,1,1
+LD,Dilmerian Bartender,1,1
+LD,Dilmerian Villager,1,1
+LD,Dirk,1,1
+LD,Dolorex,1,1
+LD,Dominion War Memorial Visitor,1,1
+LD,Doopler,1,1
+LD,Drookmani Captain,1,1
+LD,Edosian Division 14 Officer,1,1
+LD,Elim Garak,1,1
+LD,First Officer,1,1
+LD,Fletcher,1,1
+LD,G,1,1
+LD,G'reck,1,1
+LD,Gelrakian #2,1,1
+LD,Gem,1,1
+LD,Gernba,1,1
+LD,Gonald,1,1
+LD,Gorm,1,1
+LD,Grafflax,1,1
+LD,Harrison Horseberry,1,1
+LD,Haubold,1,1
+LD,Helena Gibson,1,1
+LD,Hikaru Sulu,1,1
+LD,Honus,1,1
+LD,Human Female Acolyte,1,1
+LD,Jack Ransom (alternate),1,1
+LD,Jennifer Sh'reyan,1,1
+LD,Jet Manhaver,1,1
+LD,K'Elarra,1,1
+LD,K'orin,1,1
+LD,Kerner Hauze,1,1
+LD,Klingon,1,1
+LD,Klingon Biker 2,1,1
+LD,Klingon Officer (O.S.),1,1
+LD,Klingon Officer (V.O.),1,1
+LD,Korzak,1,1
+LD,Kreetassan Female,1,1
+LD,Kreetassan Male 1,1,1
+LD,Krog,1,1
+LD,Krtas Captain,1,1
+LD,Kzinti Ensign,1,1
+LD,Landru,1,1
+LD,Leah Brahms,1,1
+LD,Leeta,1,1
+LD,Levy,1,1
+LD,Malvus,1,1
+LD,Martok,1,1
+LD,Migleemo,1,1
+LD,Milius,1,1
+LD,Mirror Boimler,1,1
+LD,Mirror Shaxs,1,1
+LD,Mixtus II Settler,1,1
+LD,Mixtus III Generational Female,1,1
+LD,Model Ship's Computer,1,1
+LD,Molmol,1,1
+LD,Moopsy,1,1
+LD,Narj,1,1
+LD,O'Connor,1,1
+LD,Older Klingon Officer,1,1
+LD,Olly,1,1
+LD,Orb 1,1,1
+LD,Orb 2,1,1
+LD,Orbiculus,1,1
+LD,Orbital Control Officer,1,1
+LD,Otherford,1,1
+LD,Oversight Council Chambers Worker,1,1
+LD,Pakled Captain,1,1
+LD,Pakled Delegate,1,1
+LD,Pakled Rebel,1,1
+LD,Patingi,1,1
+LD,Peanut Hamper,1,1
+LD,Q,1,1
+LD,Quadralon,1,1
+LD,Quark,1,1
+LD,Quimp,1,1
+LD,Red Rutherford,1,1
+LD,Rom,1,1
+LD,Rom's Servant,1,1
+LD,Romulan Male Officer 1,1,1
+LD,Ron Docent,1,1
+LD,Rondus,1,1
+LD,Rumdar,1,1
+LD,Scary Alien on Machine,1,1
+LD,Shara,1,1
+LD,Shaxs (alternate),1,1
+LD,Shaxs (hallucination),1,1
+LD,Sherwyns,1,1
+LD,Shona Tendi,1,1
+LD,Siggi,1,1
+LD,Simulated Shaxs,1,1
+LD,Simulated Starfleet Officer,1,1
+LD,Simulated Vendome,1,1
+LD,Sito Jaxa,1,1
+LD,Snell,1,1
+LD,Sonya Gomez,1,1
+LD,Spheronius,1,1
+LD,SquAaron,1,1
+LD,Starbase 80 Computer,1,1
+LD,Starfleet Admiral,1,1
+LD,Steven Levy,1,1
+LD,Swhale Swhalens,1,1
+LD,T'Pol,1,1
+LD,Targalan Robot 1,1,1
+LD,Tersal,1,1
+LD,Thusa,1,1
+LD,Togg,1,1
+LD,Tom Paris,1,1
+LD,Toz,1,1
+LD,Vendorian Follower,1,1
+LD,Vendorian Leader,1,1
+LD,Vendorian Observer 1,1,1
+LD,Vendorian Observer 2,1,1
+LD,Vexilon,1,1
+LD,Victoria Nuzé,1,1
+LD,Vindor,1,1
+LD,Wadi Male 1,1,1
+LD,Waiter,1,1
+LD,Warrior Pit Bouncer,1,1
+LD,Winger Bingston Jr,1,1
+LD,Yorif,1,1
+LD,Zefram Cochrane,1,1
+PIC,Bjayzl,1,1
+PIC,Bruce Maddox,1,1
+PIC,Emmet,1,1
+PIC,Emmy,1,1
+PIC,Gabi,1,1
+PIC,Gabriel Hwang,1,1
+PIC,Interviewer,1,1
+PIC,Moritz Benayoun,1,1
+PIC,Mother,1,1
+PIC,Orion,1,1
+PIC,Queen,1,1
+PIC,Ramdha,1,1
+PIC,Ro Laren,1,1
+PIC,Sneed,1,1
+PIC,Spot 73,1,1
+PIC,The Psychiatrist,1,1
+PIC,Tuvok,1,1
+PIC,Vup,1,1
+PIC,Zani,1,1
+PRO,Alien,1,1
+PRO,Ankle Restraint,1,1
+PRO,Bronze Drednok,1,1
+PRO,Caitian Child,1,1
+PRO,Corrupted Janeway,1,1
+PRO,Denaxi Visitor #2,1,1
+PRO,Dred 2,1,1
+PRO,Drednok Unit,1,1
+PRO,Female Enderprizian,1,1
+PRO,Gentleman Caller,1,1
+PRO,Holo Murf,1,1
+PRO,James'T,1,1
+PRO,K'ruvang,1,1
+PRO,Kaseth,1,1
+PRO,Kazon #1,1,1
+PRO,Kazon Trader,1,1
+PRO,Klingon 2,1,1
+PRO,Living Mire,1,1
+PRO,Masked Soldier,1,1
+PRO,Miner #1,1,1
+PRO,Mirror Chakotay,1,1
+PRO,Mirror Janeway,1,1
+PRO,Noum(s),1,1
+PRO,Rok Tahk (Brikar Language),1,1
+PRO,Starfleet Officer #1,1,1
+PRO,Starfleet Officer #2,1,1
+PRO,Tal Shiar #3,1,1
+PRO,Tellarite Justice,1,1
+PRO,Terran Soldier,1,1
+PRO,Two Headed Alien,1,1
+PRO,Vau N'akat Scientist,1,1
+PRO,Voice,1,1
+PRO,Vulcan Justice,1,1
+PRO,Vulcan Scientist,1,1
+SNW,Adelaide Shaw,1,1
+SNW,Admiral Christopher Pike,1,1
+SNW,Alien Daughter (Deleb),1,1
+SNW,Alien Parent,1,1
+SNW,Alora,1,1
+SNW,Amanda Grayson,1,1
+SNW,Ambassador Dak'Rah,1,1
+SNW,Anthony MacBeau,1,1
+SNW,Aspen,1,1
+SNW,Beckett Mariner,1,1
+SNW,Brad Boimler,1,1
+SNW,Buck Martinez,1,1
+SNW,Bytha,1,1
+SNW,Captain,1,1
+SNW,Jennifer,1,1
+SNW,Joni Gloss,1,1
+SNW,Lee Woods,1,1
+SNW,Luq,1,1
+SNW,Maxwell Saint,1,1
+SNW,Neera Ketoul,1,1
+SNW,Roger Korby,1,1
+SNW,Sera,1,1
+SNW,Sevet,1,1
+SNW,Shankar,1,1
+SNW,Sunny Lupino,1,1
+SNW,TK Bellows,1,1
+SNW,Turr,1,1
+SNW,USS Enterprise Computer,1,1
+SNW,Zac Nguyen,1,1
+STT,Admiral Quinn,1,1
+STT,Amin,1,1
+STT,Aradar,1,1
+STT,Bounty Hunter,1,1
+STT,Cabot Computer,1,1
+STT,Cadet Thira Sidhu,1,1
+STT,Craft,1,1
+STT,Dad,1,1
+STT,Dick Avery,1,1
+STT,Discovery Computer,1,1
+STT,Dock Crew #1,1,1
+STT,Edward Larkin,1,1
+STT,Federation Officer,1,1
+STT,Female Villager #4,1,1
+STT,Female Villager #5,1,1
+STT,Guard,1,1
+STT,Harry Mudd,1,1
+STT,Hikaru Sulu,1,1
+STT,James T. Kirk,1,1
+STT,Jo Stockton,1,1
+STT,Kalpien Villager,1,1
+STT,Kelpien Villager,1,1
+STT,Khan,1,1
+STT,Kid #2,1,1
+STT,Kima,1,1
+STT,Lil,1,1
+STT,Lynne Lucero,1,1
+STT,Male Villager #1,1,1
+STT,Male Villager #2,1,1
+STT,Me Hani Ika Hali Ka Po,1,1
+STT,Mike Burnham,1,1
+STT,Mom,1,1
+STT,Multiple,1,1
+STT,Narrator,1,1
+STT,New Guard,1,1
+STT,Noel,1,1
+STT,Philippa Georgiou,1,1
+STT,Principal,1,1
+STT,Rob,1,1
+STT,Sarah,1,1
+STT,Saru,1,1
+STT,Secretary,1,1
+STT,Security Officer #1,1,1
+STT,Siobhan Tilly,1,1
+STT,Siranna,1,1
+STT,Starfleet Security Officer,1,1
+STT,Station 28 Computer,1,1
+STT,Sylvia Tilly,1,1
+STT,Teacher,1,1
+STT,Tevrin Krit,1,1
+STT,Upjohn,1,1
+STT,Worker Bee #1,1,1
+STT,Worker Bee #2,1,1
+STT,Young Michael Burnham,1,1
+STT,Zora,1,1
+STT,Zora Holo-Dancer,1,1
+TAS,3,1,1
+TAS,Agmar,1,1
+TAS,Aleek-Om,1,1
+TAS,Alice,1,1
+TAS,Alien Entity,1,1
+TAS,Amanda Grayson,1,1
+TAS,Ancient Insectoid,1,1
+TAS,Anne Nored,1,1
+TAS,Aquan Females,1,1
+TAS,Aquan Harvester,1,1
+TAS,Ari bn Bem,1,1
+TAS,Asmodeus,1,1
+TAS,Bell,1,1
+TAS,Briel,1,1
+TAS,Carter Winston,1,1
+TAS,Carver,1,1
+TAS,Chuft Captain,1,1
+TAS,Clayton,1,1
+TAS,Commodore Robert April,1,1
+TAS,Commodore Robert Wesley,1,1
+TAS,Computer Voice,1,1
+TAS,Cosmic Cloud,1,1
+TAS,Cyrano Jones,1,1
+TAS,Dara,1,1
+TAS,Davison,1,1
+TAS,Devna,1,1
+TAS,Dramian Guard,1,1
+TAS,Dramian Supreme Prefect,1,1
+TAS,EM,1,1
+TAS,Enterprise Computer,1,1
+TAS,Female Ursinoid Miner,1,1
+TAS,Gabler,1,1
+TAS,Green,1,1
+TAS,Grey,1,1
+TAS,Guardian of Forever,1,1
+TAS,Harcourt Fenton Mudd,1,1
+TAS,Human Miner,1,1
+TAS,Kali,1,1
+TAS,Karla Five,1,1
+TAS,Kol-Tai,1,1
+TAS,Koloth,1,1
+TAS,Kor,1,1
+TAS,Korax,1,1
+TAS,Kuri,1,1
+TAS,Kyle,1,1
+TAS,Kzinti Flyer,1,1
+TAS,Kzinti Telepath,1,1
+TAS,Lara,1,1
+TAS,Lemus,1,1
+TAS,Library Computer,1,1
+TAS,Lora,1,1
+TAS,Lucien,1,1
+TAS,Male Ursinoid Miner,1,1
+TAS,Nurse Christine Chapel,1,1
+TAS,O'Shea,1,1
+TAS,Orion ensign,1,1
+TAS,Orion lieutenant,1,1
+TAS,Queen of Hearts,1,1
+TAS,Randi Bryce,1,1
+TAS,Rila,1,1
+TAS,Romulan Crewman,1,1
+TAS,Sarah April,1,1
+TAS,Sarek,1,1
+TAS,Search party 7 Crewman,1,1
+TAS,Security Ensign,1,1
+TAS,Slaver Weapon Computer,1,1
+TAS,Sord,1,1
+TAS,Spock II,1,1
+TAS,Stavos Keniclius 5,1,1
+TAS,Tchar,1,1
+TAS,Theela,1,1
+TAS,Tom Markel,1,1
+TAS,Vedala Female,1,1
+TAS,Vendorian,1,1
+TAS,Walking Bear,1,1
+TAS,White Rabbit,1,1
+TAS,Young Sepek,1,1
+TAS,Young Spock,1,1
+TNG,Aaron Conor,1,1
+TNG,Acost Jared,1,1
+TNG,Adm. Alidar Jarok,1,1
+TNG,Adm. Anthony Haftel,1,1
+TNG,Adm. Eric Pressman,1,1
+TNG,Adm. Gregory Quinn,1,1
+TNG,Adm. Marcus Holt,1,1
+TNG,Adm. Margaret Blackwell,1,1
+TNG,Adm. Mark Jameson,1,1
+TNG,Adm. Savar,1,1
+TNG,Adm. Simons,1,1
+TNG,Administrator,1,1
+TNG,Administrator Suna,1,1
+TNG,Ajur,1,1
+TNG,Albert,1,1
+TNG,Albert Einstein,1,1
+TNG,Alexana Devos,1,1
+TNG,Alien #1,1,1
+TNG,Alyssa Ogawa,1,1
+TNG,Amanda Rogers,1,1
+TNG,Ambassador Briam,1,1
+TNG,Ambassador Kell,1,1
+TNG,Ambassador Loquel,1,1
+TNG,Ambassador T'Pel,1,1
+TNG,Ambassador Ves Alkar,1,1
+TNG,Andrus Hagan,1,1
+TNG,Anna,1,1
+TNG,Annie Meyers,1,1
+TNG,Anya,1,1
+TNG,Aquiel Uhnari,1,1
+TNG,Ard'rian McKenzie,1,1
+TNG,Ardra,1,1
+TNG,Argyle,1,1
+TNG,Armus,1,1
+TNG,Artist,1,1
+TNG,Assistant Manager,1,1
+TNG,Attendant Mavek,1,1
+TNG,B'Etor,1,1
+TNG,B'Tardat,1,1
+TNG,Balance,1,1
+TNG,Barnaby,1,1
+TNG,Batai,1,1
+TNG,Beata,1,1
+TNG,Benjamin Maxwell,1,1
+TNG,Berel,1,1
+TNG,Berlinghoff Rasmussen,1,1
+TNG,Birta,1,1
+TNG,Boothby,1,1
+TNG,Brull,1,1
+TNG,Cadet First Class Nicholas Locarno,1,1
+TNG,Carmen Davila,1,1
+TNG,Centurion Bochra,1,1
+TNG,Chancellor Durken,1,1
+TNG,Chief Hutchinson,1,1
+TNG,Chief Kelso,1,1
+TNG,Clara Sutter,1,1
+TNG,Commander,1,1
+TNG,Cortan 'Corey' Zweller,1,1
+TNG,Countess Barthalomew,1,1
+TNG,Crewman Garvey,1,1
+TNG,Crewman Martinez,1,1
+TNG,Crosis,1,1
+TNG,Cyrus Redblock,1,1
+TNG,Cytherian,1,1
+TNG,DaiMon Bractor,1,1
+TNG,DaiMon Prak,1,1
+TNG,DaiMon Tog,1,1
+TNG,Dalen Quaice,1,1
+TNG,Daniel Kwan,1,1
+TNG,Daniel Sutter,1,1
+TNG,Danilo Odell,1,1
+TNG,Dara,1,1
+TNG,Dathon,1,1
+TNG,Davies,1,1
+TNG,Debin,1,1
+TNG,Dern,1,1
+TNG,Devinoni Ral,1,1
+TNG,Devor,1,1
+TNG,Dirgo,1,1
+TNG,Dobara,1,1
+TNG,Donald Varley,1,1
+TNG,Doorman,1,1
+TNG,Duffy,1,1
+TNG,Edward La Forge,1,1
+TNG,Eline,1,1
+TNG,Endar,1,1
+TNG,Engineer,1,1
+TNG,Eric,1,1
+TNG,Esoqq,1,1
+TNG,Etana Jol,1,1
+TNG,Ethan,1,1
+TNG,Farallon,1,1
+TNG,Frank Hollander,1,1
+TNG,Garvin,1,1
+TNG,Gia,1,1
+TNG,Gillespie,1,1
+TNG,Governor Leka Trion,1,1
+TNG,Governor Torak,1,1
+TNG,Grebnedlog,1,1
+TNG,Gul Dolak,1,1
+TNG,Gul Macet,1,1
+TNG,Gul Madred,1,1
+TNG,Gul Nador,1,1
+TNG,Hal Moseley,1,1
+TNG,Hannah Bates,1,1
+TNG,Haritath,1,1
+TNG,Harmony,1,1
+TNG,Haskell,1,1
+TNG,Hayne,1,1
+TNG,Hedril,1,1
+TNG,Helena Rozhenko,1,1
+TNG,Hester Dealt,1,1
+TNG,Hickman,1,1
+TNG,Holodeck Albert Einstein,1,1
+TNG,Howard Clarke,1,1
+TNG,Humanoid Progenitor,1,1
+TNG,Hutchinson,1,1
+TNG,Inspector Krag,1,1
+TNG,Inspector Lestrade,1,1
+TNG,Isaac Newton,1,1
+TNG,Isabella,1,1
+TNG,Ishara Yar,1,1
+TNG,J'Ddan,1,1
+TNG,JAG Capt. Phillipa Louvois,1,1
+TNG,Ja'Dar,1,1
+TNG,Jack London,1,1
+TNG,Jae,1,1
+TNG,Jake Potts,1,1
+TNG,Janet Brooks,1,1
+TNG,Jason Vigo,1,1
+TNG,Jean-Luc Riker,1,1
+TNG,Jenice Manheim,1,1
+TNG,Jenna D'Sora,1,1
+TNG,Jeremy Aster,1,1
+TNG,Jev,1,1
+TNG,John Doe,1,1
+TNG,Jono,1,1
+TNG,Julian Bashir,1,1
+TNG,Juliana Tainer,1,1
+TNG,K'Mtar,1,1
+TNG,K'Temoc,1,1
+TNG,K'mpec,1,1
+TNG,Kalin Trose,1,1
+TNG,Kamala,1,1
+TNG,Kaminer,1,1
+TNG,Kane,1,1
+TNG,Kareel Odan,1,1
+TNG,Kargan,1,1
+TNG,Kateras,1,1
+TNG,Keeve Falor,1,1
+TNG,Keiko Ishikawa,1,1
+TNG,Kelsey,1,1
+TNG,Kes Aide,1,1
+TNG,Kevin Uxbridge,1,1
+TNG,Kieran MacDuff,1,1
+TNG,Kila Marr,1,1
+TNG,Koroth,1,1
+TNG,Kosinski,1,1
+TNG,Kova Tholl,1,1
+TNG,Kristin,1,1
+TNG,Krite,1,1
+TNG,Kurak,1,1
+TNG,Kurt Mandl,1,1
+TNG,Kushell,1,1
+TNG,Kyle Riker,1,1
+TNG,Kyril Finn,1,1
+TNG,Lakanta,1,1
+TNG,Lal,1,1
+TNG,Letek,1,1
+TNG,Liko,1,1
+TNG,Linda Larson,1,1
+TNG,Locutus of Borg,1,1
+TNG,Lorin,1,1
+TNG,Lutan,1,1
+TNG,Macias,1,1
+TNG,Madeline,1,1
+TNG,Manua Apgar,1,1
+TNG,Maques,1,1
+TNG,Marie Picard,1,1
+TNG,Marla Aster,1,1
+TNG,Marta Batanides,1,1
+TNG,Martin Benbeck,1,1
+TNG,Maturin,1,1
+TNG,Mauric,1,1
+TNG,McKnight,1,1
+TNG,Mendon,1,1
+TNG,Michael Williams,1,1
+TNG,Minuet,1,1
+TNG,Mirasta Yale,1,1
+TNG,Mirok,1,1
+TNG,Morag,1,1
+TNG,Morgan Bateson,1,1
+TNG,Moriarty,1,1
+TNG,Mot,1,1
+TNG,Mrs. Carmichael,1,1
+TNG,Nagilum,1,1
+TNG,Nara,1,1
+TNG,Nausicaan #1,1,1
+TNG,Ned Quint,1,1
+TNG,Nella Daren,1,1
+TNG,Noor,1,1
+TNG,Nu'Daq,1,1
+TNG,Nuria,1,1
+TNG,Orn Lote,1,1
+TNG,Palmer,1,1
+TNG,Par Lenor,1,1
+TNG,Paul Stubbs,1,1
+TNG,Pavlik,1,1
+TNG,Policeman,1,1
+TNG,Pran Tainer,1,1
+TNG,Premier Bhavani,1,1
+TNG,Prime Minister Granger,1,1
+TNG,Prime Minister Nayrok,1,1
+TNG,Professor James Moriarty,1,1
+TNG,Rabal,1,1
+TNG,Radue,1,1
+TNG,Reginod,1,1
+TNG,Reyga,1,1
+TNG,Richard Castillo,1,1
+TNG,Risa Tourist,1,1
+TNG,Rishon Uxbridge,1,1
+TNG,Rivan,1,1
+TNG,Robert DeSoto,1,1
+TNG,Robert Picard,1,1
+TNG,Robin Lefler,1,1
+TNG,Roga Danar,1,1
+TNG,Romulan,1,1
+TNG,Romulan Captain,1,1
+TNG,Romulan Commander,1,1
+TNG,Ronin,1,1
+TNG,Sabin Genestra,1,1
+TNG,Salia,1,1
+TNG,Sam Lavelle,1,1
+TNG,Sara Kingsley,1,1
+TNG,Sarah MacDougal,1,1
+TNG,Sarek,1,1
+TNG,Sarjenka,1,1
+TNG,Scholar,1,1
+TNG,Scotty,1,1
+TNG,Sela,1,1
+TNG,Selar,1,1
+TNG,Senator Pardek,1,1
+TNG,Serova,1,1
+TNG,Setol,1,1
+TNG,Sigmund Freud,1,1
+TNG,Silva La Forge,1,1
+TNG,Simon Tarses,1,1
+TNG,Sir Guy of Gisbourne,1,1
+TNG,Sirna Kolrami,1,1
+TNG,Sirol,1,1
+TNG,Sito Jaxa,1,1
+TNG,Slade Bender,1,1
+TNG,Sobi,1,1
+TNG,Songi,1,1
+TNG,Sonya Gomez,1,1
+TNG,Soren,1,1
+TNG,Ssestar,1,1
+TNG,Stefan DeSeve,1,1
+TNG,Stephen Hawking,1,1
+TNG,Sub-Cmdr. N'vek,1,1
+TNG,Sub-Cmdr. Taris,1,1
+TNG,Sunad,1,1
+TNG,Susanna Leijten,1,1
+TNG,Syrus,1,1
+TNG,Taibak,1,1
+TNG,Talur,1,1
+TNG,Tamarian First Officer,1,1
+TNG,Tarmin,1,1
+TNG,Taurik,1,1
+TNG,Tebok,1,1
+TNG,Tess Allenby,1,1
+TNG,Thadiun Okona,1,1
+TNG,The Conductor,1,1
+TNG,The Engineer,1,1
+TNG,The Hitman,1,1
+TNG,The Peddler,1,1
+TNG,The Traveler,1,1
+TNG,Third Minister Campio,1,1
+TNG,Third of Five,1,1
+TNG,Thomas Riker,1,1
+TNG,Timothy,1,1
+TNG,Toby Russell,1,1
+TNG,Toff,1,1
+TNG,Toq,1,1
+TNG,Toreth,1,1
+TNG,Torin,1,1
+TNG,Tyler,1,1
+TNG,Vanessa,1,1
+TNG,Varel,1,1
+TNG,Varria,1,1
+TNG,Vice-Adm. Alynna Nechayev,1,1
+TNG,Vorin,1,1
+TNG,Voval,1,1
+TNG,Walter Pierce,1,1
+TNG,Yuta,1,1
+TNG,Zandra Taitt,1,1
+TOS,Adam,1,1
+TOS,Admiral Westervliet,1,1
+TOS,Air Police Sergeant,1,1
+TOS,Akuta,1,1
+TOS,Alden,1,1
+TOS,Alexander,1,1
+TOS,Alice #1 through 250,1,1
+TOS,Alice #251 through 500,1,1
+TOS,Amanda,1,1
+TOS,Ambassador Fox,1,1
+TOS,Anan 7,1,1
+TOS,Andorian,1,1
+TOS,Andrea,1,1
+TOS,Android,1,1
+TOS,Angela,1,1
+TOS,Ann Mulhall,1,1
+TOS,Apollo,1,1
+TOS,Appel,1,1
+TOS,Areel Shaw,1,1
+TOS,Assistant Engineer,1,1
+TOS,Atoz,1,1
+TOS,Aurelan,1,1
+TOS,Ayelborne,1,1
+TOS,Balok,1,1
+TOS,Barstow,1,1
+TOS,Bela,1,1
+TOS,Bele,1,1
+TOS,Blonde Girl,1,1
+TOS,Boma,1,1
+TOS,Boy Creature,1,1
+TOS,Brown,1,1
+TOS,Caretaker,1,1
+TOS,Carolyn,1,1
+TOS,Charlene Masters,1,1
+TOS,Charlie Evans,1,1
+TOS,Christine,1,1
+TOS,Christopher Pike,1,1
+TOS,Claudius,1,1
+TOS,Claymare,1,1
+TOS,Cloud Guard #1,1,1
+TOS,Cloud Guard #2,1,1
+TOS,Cloud William,1,1
+TOS,Cogley,1,1
+TOS,Col. Fellini,1,1
+TOS,Col. Green,1,1
+TOS,Coleman,1,1
+TOS,Commissioner Ferris,1,1
+TOS,Commodore Decker,1,1
+TOS,Commodore Stocker,1,1
+TOS,Communications Officer,1,1
+TOS,Creature,1,1
+TOS,Crew Woman,1,1
+TOS,Crewman,1,1
+TOS,Crewwoman,1,1
+TOS,Cromwell,1,1
+TOS,Cyrano Jones,1,1
+TOS,D'Amato,1,1
+TOS,Daras,1,1
+TOS,Darnell,1,1
+TOS,Dave Bailey,1,1
+TOS,Daystrom,1,1
+TOS,Decius,1,1
+TOS,Deela,1,1
+TOS,Droxine,1,1
+TOS,Ekor,1,1
+TOS,Elaan,1,1
+TOS,Eleen,1,1
+TOS,Elias Sandoval,1,1
+TOS,Elizabeth Dehner,1,1
+TOS,Elliott,1,1
+TOS,Eneg,1,1
+TOS,Engineer #1,1,1
+TOS,Eraclitus,1,1
+TOS,Eve McHuron,1,1
+TOS,Finnegan,1,1
+TOS,Finney,1,1
+TOS,First Crewman,1,1
+TOS,First Lawgiver,1,1
+TOS,Fisher,1,1
+TOS,Flavius,1,1
+TOS,Flint,1,1
+TOS,Gaetano,1,1
+TOS,Galt,1,1
+TOS,Garrovick,1,1
+TOS,Garth,1,1
+TOS,Gary Mitchell,1,1
+TOS,Gav,1,1
+TOS,Gem,1,1
+TOS,George Samuel Kirk,1,1
+TOS,Giotto,1,1
+TOS,Gorgan,1,1
+TOS,Goro,1,1
+TOS,Green,1,1
+TOS,Guard,1,1
+TOS,Hacom,1,1
+TOS,Hanar,1,1
+TOS,Harold,1,1
+TOS,Harper,1,1
+TOS,Helen Noel,1,1
+TOS,Helmsman,1,1
+TOS,Hengist,1,1
+TOS,Henoch,1,1
+TOS,Hodin,1,1
+TOS,Irina,1,1
+TOS,Isak,1,1
+TOS,Jaeger,1,1
+TOS,Jahn,1,1
+TOS,Jahn's Friend,1,1
+TOS,Janet Wallace,1,1
+TOS,Janice Lester,1,1
+TOS,Jaris,1,1
+TOS,Joaquin,1,1
+TOS,John Gill,1,1
+TOS,Johnson,1,1
+TOS,José Tyler,1,1
+TOS,Kalo,1,1
+TOS,Kang,1,1
+TOS,Kara,1,1
+TOS,Karidian,1,1
+TOS,Keel,1,1
+TOS,Kelinda,1,1
+TOS,Khan,1,1
+TOS,Klingon Soldier,1,1
+TOS,Koloth,1,1
+TOS,Kor,1,1
+TOS,Korax,1,1
+TOS,Korob,1,1
+TOS,Krako,1,1
+TOS,Kras,1,1
+TOS,Krell,1,1
+TOS,Krodak,1,1
+TOS,Kryton,1,1
+TOS,Lal,1,1
+TOS,Landru,1,1
+TOS,Lang,1,1
+TOS,Larry Marvick,1,1
+TOS,Larry Matson,1,1
+TOS,Lars,1,1
+TOS,Lazarus,1,1
+TOS,Lee Kelso,1,1
+TOS,Leighton,1,1
+TOS,Leila Kalomi,1,1
+TOS,Lemli,1,1
+TOS,Lenore,1,1
+TOS,Lesley,1,1
+TOS,Lethe,1,1
+TOS,Lieutenant,1,1
+TOS,Lincoln,1,1
+TOS,Linke,1,1
+TOS,Lokai,1,1
+TOS,Losira,1,1
+TOS,Loskene,1,1
+TOS,Lurry,1,1
+TOS,M'Benga,1,1
+TOS,Maab,1,1
+TOS,Magda,1,1
+TOS,Major Christopher,1,1
+TOS,Makora,1,1
+TOS,Mallory,1,1
+TOS,Mara,1,1
+TOS,Marla,1,1
+TOS,Marlena,1,1
+TOS,Marple,1,1
+TOS,Marplon,1,1
+TOS,Marta,1,1
+TOS,Martha Leighton,1,1
+TOS,Mathews,1,1
+TOS,Mea 3,1,1
+TOS,Melakon,1,1
+TOS,Merik,1,1
+TOS,Mira Romaine,1,1
+TOS,Miramanee,1,1
+TOS,Miranda Jones,1,1
+TOS,Miri,1,1
+TOS,Mister Seven,1,1
+TOS,Morgan Earp,1,1
+TOS,Morla,1,1
+TOS,Nancy Crater,1,1
+TOS,Nancy Hedford,1,1
+TOS,Natira,1,1
+TOS,Navigator,1,1
+TOS,Nilz Baris,1,1
+TOS,Nona,1,1
+TOS,Norman,1,1
+TOS,Number One,1,1
+TOS,Nurse,1,1
+TOS,Nurse Christine Chapel,1,1
+TOS,O'Herlihy,1,1
+TOS,O'Neil,1,1
+TOS,Odona,1,1
+TOS,Orderly,1,1
+TOS,Ozaba,1,1
+TOS,Painter,1,1
+TOS,Palmer,1,1
+TOS,Parmen,1,1
+TOS,Peter,1,1
+TOS,Petri,1,1
+TOS,Philana,1,1
+TOS,Phillip Boyce,1,1
+TOS,Piper,1,1
+TOS,Plasus,1,1
+TOS,Portmaster Stone,1,1
+TOS,Prof. Robert Crater,1,1
+TOS,Professor Starnes,1,1
+TOS,Rael,1,1
+TOS,Rahda,1,1
+TOS,Ramart,1,1
+TOS,Rayburn,1,1
+TOS,Rayna,1,1
+TOS,Redheaded Boy,1,1
+TOS,Reger,1,1
+TOS,Riley,1,1
+TOS,Rizzo,1,1
+TOS,Roberta Lincoln,1,1
+TOS,Rodent,1,1
+TOS,Rodriguez,1,1
+TOS,Roger Korby,1,1
+TOS,Rojan,1,1
+TOS,Ruk,1,1
+TOS,Ruth,1,1
+TOS,Salish,1,1
+TOS,Sarek,1,1
+TOS,Sargon,1,1
+TOS,Schmitter,1,1
+TOS,Second Fop,1,1
+TOS,Septimus,1,1
+TOS,Sevrin,1,1
+TOS,Shahna,1,1
+TOS,Simon van Gelder,1,1
+TOS,Singh,1,1
+TOS,Sirah,1,1
+TOS,Sister Edith Keeler,1,1
+TOS,Spinelli,1,1
+TOS,Stiles,1,1
+TOS,Stonn,1,1
+TOS,Surak,1,1
+TOS,Sybo,1,1
+TOS,T'Pau,1,1
+TOS,T'Pring,1,1
+TOS,Tal,1,1
+TOS,Tamar,1,1
+TOS,Tamoon,1,1
+TOS,Tamula,1,1
+TOS,Tark,1,1
+TOS,Technician,1,1
+TOS,Tellarite,1,1
+TOS,Tepo,1,1
+TOS,Teresa,1,1
+TOS,Thalassa,1,1
+TOS,Thann,1,1
+TOS,Tharn,1,1
+TOS,The Companion,1,1
+TOS,The First Fop,1,1
+TOS,The Kalar Warrior,1,1
+TOS,The Prosecutor,1,1
+TOS,Thelev,1,1
+TOS,Timothy,1,1
+TOS,Tina Lawton,1,1
+TOS,Tom Nellis,1,1
+TOS,Tommy Starnes,1,1
+TOS,Tonia Barrows,1,1
+TOS,Tormolen,1,1
+TOS,Tracey,1,1
+TOS,Transportation Man,1,1
+TOS,Trefayne,1,1
+TOS,Trelane,1,1
+TOS,Tristan Adams,1,1
+TOS,Tula,1,1
+TOS,Tyree,1,1
+TOS,USS Enterprise Lt. Cmdr.,1,1
+TOS,Vanderberg,1,1
+TOS,Vanna,1,1
+TOS,Vina,1,1
+TOS,Virgil Earp,1,1
+TOS,Voice of Sargon,1,1
+TOS,Washburn,1,1
+TOS,Wesley,1,1
+TOS,Wilson,1,1
+TOS,Woman,1,1
+TOS,Wyatt Earp,1,1
+TOS,Yang Scholar,1,1
+TOS,Yeoman J.M. Colt,1,1
+TOS,Yeoman Janice Rand,1,1
+TOS,Yeoman Martha Landon,1,1
+TOS,Yeoman Mears,1,1
+TOS,Yeoman Smith,1,1
+TOS,Yeoman Zahra,1,1
+TOS,Zarabeth,1,1
+TOS,Zefram Cochrane,1,1
+VOY,'One,1,1
+VOY,(j.g.) Tom Paris,1,1
+VOY,3947,1,1
+VOY,Adin,1,1
+VOY,Adm. Owen Paris,1,1
+VOY,Admiral Edward Janeway,1,1
+VOY,Ahni Jetal,1,1
+VOY,Alcia,1,1
+VOY,Alice,1,1
+VOY,Allos,1,1
+VOY,Alpha-Hirogen Idrin,1,1
+VOY,Alzen,1,1
+VOY,Arridor,1,1
+VOY,Arturis,1,1
+VOY,Astronaut - Gotana-Retz,1,1
+VOY,Augris,1,1
+VOY,Borg Queen,1,1
+VOY,Braxton,1,1
+VOY,Brone,1,1
+VOY,Charlene,1,1
+VOY,Chief Examiner Nimira,1,1
+VOY,Controller Emck,1,1
+VOY,Controller Vrelk,1,1
+VOY,Cosimo,1,1
+VOY,Cravic 122,1,1
+VOY,Crell Moset,1,1
+VOY,Crewman Kenneth Dalby,1,1
+VOY,Curneth,1,1
+VOY,Dala,1,1
+VOY,Dammar,1,1
+VOY,Dejaren,1,1
+VOY,Dereth,1,1
+VOY,Derran Tal,1,1
+VOY,Devore Inspector Kashyk,1,1
+VOY,Dreadnought,1,1
+VOY,Dream Alien,1,1
+VOY,ECH,1,1
+VOY,EMH Mark I,1,1
+VOY,Eliann,1,1
+VOY,Female Q,1,1
+VOY,Fesek,1,1
+VOY,First,1,1
+VOY,Forra Gegen,1,1
+VOY,Freya,1,1
+VOY,Gar,1,1
+VOY,Gathorel Labin,1,1
+VOY,Gaumen,1,1
+VOY,Gedrin,1,1
+VOY,General Valen,1,1
+VOY,Giuseppina Pentangeli,1,1
+VOY,Healer,1,1
+VOY,Henry Janeway,1,1
+VOY,Hirogen Hunter,1,1
+VOY,Iden,1,1
+VOY,Iko,1,1
+VOY,Irina,1,1
+VOY,Janice Rand,1,1
+VOY,Jetlaya,1,1
+VOY,John Evansville,1,1
+VOY,John Kelly,1,1
+VOY,Jor Brel,1,1
+VOY,Kar,1,1
+VOY,Katanay,1,1
+VOY,Kelis the Poet,1,1
+VOY,Kolopak,1,1
+VOY,Kortar,1,1
+VOY,Kovin,1,1
+VOY,Kurros,1,1
+VOY,Kymble,1,1
+VOY,Lansor,1,1
+VOY,Leonardo da Vinci,1,1
+VOY,Lidell Ren,1,1
+VOY,Linnis Paris,1,1
+VOY,Loken,1,1
+VOY,Lord Burleigh,1,1
+VOY,Lyndsay Ballard,1,1
+VOY,Ma'bor Jetrel,1,1
+VOY,Mabus,1,1
+VOY,Marayna,1,1
+VOY,Marseilles,1,1
+VOY,Mortimer Harren,1,1
+VOY,Naroq,1,1
+VOY,Neria,1,1
+VOY,Nezu Ambassador,1,1
+VOY,Palaxia,1,1
+VOY,Pe'Nar Makull,1,1
+VOY,Penk,1,1
+VOY,Phlox,1,1
+VOY,Q2,1,1
+VOY,Quarren,1,1
+VOY,Quinn,1,1
+VOY,Ranek,1,1
+VOY,Rekar,1,1
+VOY,Ricky,1,1
+VOY,Riga,1,1
+VOY,Riley Frazier,1,1
+VOY,Ritual Guide,1,1
+VOY,Saavedra,1,1
+VOY,Sandrine,1,1
+VOY,Shannon O'Donnell,1,1
+VOY,Steth,1,1
+VOY,Sulan,1,1
+VOY,T'Greth,1,1
+VOY,Tak Tak,1,1
+VOY,Talaxian Council Regent Oxilon,1,1
+VOY,Tanis,1,1
+VOY,Tash,1,1
+VOY,Tau,1,1
+VOY,Teero Anaydis,1,1
+VOY,Telek R'Mor,1,1
+VOY,Tessa Omond,1,1
+VOY,The Boxer,1,1
+VOY,The Caretaker,1,1
+VOY,Three of Eight,1,1
+VOY,Tincoo,1,1
+VOY,Tomin,1,1
+VOY,Torrey,1,1
+VOY,Trajis Lo-Tarik,1,1
+VOY,Trevis,1,1
+VOY,Tulak,1,1
+VOY,Tuvix,1,1
+VOY,Two of Nine,1,1
+VOY,Two of Three,1,1
+VOY,Valerie Archer,1,1
+VOY,Verin,1,1
+VOY,Viorsa,1,1
+VOY,Vulcan Master,1,1
+VOY,Wixiban,1,1
+VOY,Zahir,1,1
+VOY,Zio,1,1

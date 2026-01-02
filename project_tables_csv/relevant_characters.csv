@@ -1,0 +1,238 @@
+series,character_name_norm,n_episodes,n_rows
+TNG,Geordi La Forge,176,176
+TNG,Jean-Luc Picard,176,176
+TNG,William Thomas 'Will' Riker,176,176
+TNG,Counselor Deanna Troi,175,175
+TNG,Data,175,175
+TNG,Worf,175,175
+DS9,Benjamin 'Ben' Sisko,173,173
+DS9,Constable Odo,173,173
+DS9,Jake Sisko,173,173
+DS9,Julian Bashir,173,173
+DS9,Chief Miles O'Brien,172,172
+DS9,Quark,172,172
+VOY,B'Elanna Torres,168,168
+VOY,Chakotay,168,168
+VOY,Harry Kim,168,168
+VOY,Kathryn Janeway,168,168
+VOY,Neelix,168,168
+VOY,The Doctor,168,168
+VOY,Tuvok,168,168
+VOY,Tom Paris,167,167
+TNG,Beverly Crusher,154,154
+DS9,Jadzia Dax,148,148
+DS9,Major Kira Nerys,148,148
+VOY,Seven of Nine,101,101
+DS9,Worf,100,100
+ENT,Charles 'Trip' Tucker III,98,98
+ENT,Hoshi Sato,98,98
+ENT,Jonathan Archer,98,98
+ENT,Phlox,98,98
+ENT,Malcolm Reed,96,96
+ENT,Travis Mayweather,96,96
+TNG,Wesley Crusher,83,83
+TOS,Spock,80,80
+ENT,Sub-Cmdr. T'Pol,79,79
+TOS,James T. Kirk,79,79
+VOY,Kes,70,70
+DSC,Michael Burnham,65,65
+DSC,Paul Stamets,65,65
+TOS,Uhura,63,63
+DSC,Saru,60,60
+DSC,Sylvia Tilly,57,57
+TOS,Leonard McCoy,51,51
+DSC,Hugh Culber,50,50
+LD,Beckett Mariner,50,50
+LD,D'Vana Tendi,50,50
+LD,Jack Ransom,49,49
+LD,Carol Freeman,48,48
+LD,Brad Boimler,43,43
+LD,Shaxs,41,41
+LD,T'Ana,41,41
+TOS,Montgomery Scott 'Scotty',41,41
+PRO,Dal,40,40
+PRO,Gwyn,40,40
+PRO,Jankom Pog,40,40
+PRO,Murf,40,40
+PRO,Rok-Tahk,40,40
+PRO,Zero,40,40
+DSC,Cleveland Booker,33,33
+PIC,Jean-Luc Picard,30,30
+SNW,Erica Ortegas,30,30
+SNW,La'an Noonien-Singh,30,30
+SNW,Spock,30,30
+SNW,Una Chin-Riley,30,30
+TOS,Hikaru Sulu,30,30
+TOS,Pavel Chekov,30,30
+LD,Sam Rutherford,29,29
+SNW,Christopher Pike,29,29
+SNW,M'Benga,29,29
+SNW,Nurse Christine Chapel,29,29
+DS9,Garak,28,28
+DSC,Adira,28,28
+PIC,Raffi Musiker,28,28
+SNW,Nyota Uhura,27,27
+TNG,Natasha 'Tasha' Yar,27,27
+DS9,Ezri Dax,25,25
+PIC,Seven of Nine,25,25
+PRO,Hologram Janeway,25,25
+DS9,Colonel Kira Nerys,24,24
+DSC,Ash Tyler,24,24
+DSC,Georgiou,24,24
+TOS,McCoy,24,24
+TOS,Christine Chapel,23,23
+TAS,James T. Kirk,22,22
+TAS,McCoy,22,22
+TAS,Spock,22,22
+TAS,Sulu,22,22
+TAS,Uhura,22,22
+DSC,Admiral Charles Vance,21,21
+LD,Samanthan Rutherford,21,21
+PRO,Drednok,21,21
+TOS,Scott,21,21
+PIC,Agnes Jurati,20,20
+PRO,The Diviner,20,20
+TAS,Scott,20,20
+TNG,Pulaski,20,20
+TOS,Sulu,20,20
+ENT,T'Pol,19,19
+DS9,Keiko O'Brien,18,18
+PIC,Cristóbal Rios,18,18
+PRO,Admiral Janeway,18,18
+TNG,Chief Miles O'Brien,17,17
+DSC,Gabriel Lorca,15,15
+PIC,Elnor,15,15
+DSC,Christopher Pike,14,14
+PRO,Chakotay,14,14
+DSC,L'Rell,13,13
+DSC,Admiral Cornwell,12,12
+DSC,Jett Reno,12,12
+ENT,Audio Description Narrator,12,12
+PIC,Will Riker,12,12
+DS9,Rom,11,11
+DSC,Federation President Laira Rillak,11,11
+PRO,Vice Admiral Janeway,11,11
+SNW,Montgomery Scott,11,11
+DSC,Gray Tal,10,10
+DSC,Keyla Detmer,10,10
+DSC,Rayner,10,10
+DSC,Zora,10,10
+ENT,Adm. Maxwell Forrest,10,10
+PIC,Beverly Crusher,10,10
+PIC,Jack Crusher,10,10
+PIC,Soji,10,10
+PRO,The Doctor,10,10
+TAS,Arex,10,10
+DS9,Weyoun,9,9
+ENT,Degra,9,9
+TNG,Nurse Alyssa Ogawa,9,9
+DSC,Airiam,8,8
+DSC,Kovich,8,8
+DSC,Sarek,8,8
+ENT,Shran,8,8
+ENT,Silik,8,8
+PRO,Ilthuran,8,8
+PRO,Wesley Crusher,8,8
+TAS,Nurse Chapel,8,8
+TNG,Ro Laren,8,8
+DS9,Gul Dukat,7,7
+DS9,Kasidy Yates,7,7
+DS9,Nog,7,7
+DSC,Ruon Tarka,7,7
+LD,Bradward Boimler,7,7
+PIC,Data,7,7
+PIC,Deanna Troi,7,7
+PIC,Narek,7,7
+PIC,Worf,7,7
+PRO,Maj'El,7,7
+SNW,Hemmer,7,7
+SNW,James T. Kirk,7,7
+TNG,Keiko O'Brien,7,7
+TOS,Yeoman Rand,7,7
+DSC,Amanda Grayson,6,6
+DSC,Nhan,6,6
+DSC,Spock,6,6
+ENT,Ambassador Soval,6,6
+PIC,Laris,6,6
+PIC,Liam Shaw,6,6
+PIC,Q,6,6
+PIC,Tallinn,6,6
+PRO,Noum,6,6
+SNW,Admiral Robert April,6,6
+SNW,Pelia,6,6
+TAS,M'Ress,6,6
+TNG,Lwaxana Troi,6,6
+TNG,Q,6,6
+TOS,Hadley,6,6
+DS9,Intendant Kira Nerys,5,5
+DSC,Voq,5,5
+ENT,Dolim,5,5
+ENT,Jannar,5,5
+ENT,Xindi-Primate Councilor,5,5
+PIC,Adam Soong,5,5
+PIC,Geordi La Forge,5,5
+PIC,Narissa Rizzo,5,5
+PRO,Ship Computer,5,5
+TNG,Alexander Rozhenko,5,5
+TNG,Guinan,5,5
+TOS,Kyle,5,5
+VOY,Icheb,5,5
+DS9,Smiley O'Brien,4,4
+ENT,Temporal Agent Daniels,4,4
+LD,Les Buenamigo,4,4
+LD,William Boimler,4,4
+PIC,Borg Queen,4,4
+PIC,Commodore Oh,4,4
+PIC,Guinan,4,4
+PIC,Kore Soong,4,4
+PIC,Vadic,4,4
+PRO,Counselor Noum,4,4
+PRO,Janeway,4,4
+PRO,Tysess,4,4
+TNG,Barclay,4,4
+VOY,Seska,4,4
+VOY,Vorik,4,4
+DS9,Benny Russell,3,3
+DS9,Female Shapeshifter,3,3
+DS9,Kor,3,3
+DS9,Lwaxana Troi,3,3
+DS9,Michael Eddington,3,3
+DS9,Vedek Bareil,3,3
+DSC,Kol,3,3
+DSC,Leland,3,3
+DSC,President T'Rina,3,3
+DSC,Ryn,3,3
+ENT,Administrator V'Las,3,3
+ENT,Crewman Elizabeth Cutler,3,3
+ENT,Female Crewmember,3,3
+ENT,Maj. Hayes,3,3
+ENT,Malik,3,3
+ENT,Persis,3,3
+LD,Cerritos Conn Officer,3,3
+LD,Ma'ah,3,3
+LD,William T. Riker,3,3
+LD,Winger Bingston,3,3
+PIC,Hugh,3,3
+PIC,Sidney La Forge,3,3
+PIC,Zhaban,3,3
+PRO,Holo Dal,3,3
+PRO,Holo Gwyn,3,3
+PRO,Holo Jankom Pog,3,3
+PRO,Holo Rok-Tahk,3,3
+SNW,Batel,3,3
+SNW,George Samuel Kirk,3,3
+STT,Christopher Pike,3,3
+TNG,Adm. Alynna Nechayev,3,3
+TNG,Adm. Nakamura,3,3
+TNG,Gowron,3,3
+TNG,Kurn,3,3
+TNG,Lore,3,3
+TNG,Noonien Soong,3,3
+TNG,Sariel Rager,3,3
+TNG,Tomalak,3,3
+TOS,DeSalle,3,3
+TOS,Galloway,3,3
+VOY,Barclay,3,3
+VOY,Crewman Lon Suder,3,3
+VOY,Michael Jonas,3,3
+VOY,Samantha Wildman,3,3
